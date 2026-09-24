@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Julia 👋
 
-<!--
-**JulsD/JulsD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer with a client-side focus, based in Amsterdam. I like building
+interactive, human-feeling product experiences — the kind of work where motion,
+storytelling, and a bit of AI meet good frontend engineering.
 
-Here are some ideas to get you started:
+- 🛠️ **I mostly work with:** TypeScript, React, and whatever stack a project needs
+- 🎞️ **Currently into:** motion & animation on the web (Lottie, GSAP, Framer Motion)
+- 🤖 **And:** building products *around* AI/LLMs (integration, not the math)
+- 🌱 **Building right now:** **SadNest** — a calming, animation-rich app for low moods,
+  with a light AI feature *(link coming soon)*
+- ✍️ **Off-screen:** storytelling, photography, hiking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my day-to-day code lives in private company repos (👋 Miro), so this profile
+is where my personal and learning projects live.
+
+📫 **Say hi:** [LinkedIn](https://www.linkedin.com/in/julia-dutchak/)
